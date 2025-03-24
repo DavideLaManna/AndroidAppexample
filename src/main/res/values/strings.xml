@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Negozio</string>
+    <string name="action_carrello">Carrello</string>
+    <string name="aggiungi_al_carrello">AGGIUNGI AL CARRELLO</string>
+    <string name="compra_ora">COMPRA ORA</string>
+    <string name="valuta_prodotto">Valuta questo prodotto:</string>
+    <string name="preferiti">Preferiti</string>
+</resources>
